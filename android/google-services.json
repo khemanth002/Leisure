@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645032498328",
+    "firebase_url": "https://leisure-7ff82.firebaseio.com",
+    "project_id": "leisure-7ff82",
+    "storage_bucket": "leisure-7ff82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645032498328:android:d6aa6716a1fb204aa2eced",
+        "android_client_info": {
+          "package_name": "com.example.leisure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645032498328-6g39tse7a49e9l5hiv8a7cq5fk6ufdbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnEWxwrSxvqEvw7aYIjhNwxHHzqrqPds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645032498328-6g39tse7a49e9l5hiv8a7cq5fk6ufdbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
